@@ -5,7 +5,7 @@ import '../components/header.css';
 const Header = () => {
   return (
     <header className="site-header">
-      <div className="logo">TechTrends Ltd</div>
+      <div className="">TechTrends Ltd</div>
       <nav className="nav-links">
         <Link to="/">Home</Link>
         <Link to="/about">About</Link>
